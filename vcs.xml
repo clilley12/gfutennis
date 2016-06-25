@@ -6,8 +6,12 @@
           <option name="url" value="git@github.com:clilley12/gfutennis.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com/clilley12/gfutennis.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Chris\WebstormProjects" />
+    <option name="cloneParentDir" value="C:\Users\Chris\WebstormProjects\test" />
   </component>
 </application>
